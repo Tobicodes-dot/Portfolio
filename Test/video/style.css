@@ -1,0 +1,26 @@
+ body {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+    background-color: #333;
+}
+
+.media-body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
+.media-container {
+    background: white;
+    padding: 2.5rem 3rem;
+    border-radius: 10px;
+    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.1);
+    width: 100%;
+    max-width: 450px;
+    text-align: center;
+}
+
+.video{
+    width: 300px;
+}
